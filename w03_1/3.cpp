@@ -29,6 +29,6 @@ int main() {
     test.r = 10;
     double vol = test.getVol();
     double area = test.getArea();
-    cout << "원의 겉넓이는 " << area << endl;
-    cout << "원의 부피는 " << vol << endl;
+    cout << "구의 겉넓이는 " << area << endl;
+    cout << "구의 부피는 " << vol << endl;
 }
